@@ -1,0 +1,72 @@
+div {
+    display: block;
+}
+
+/* Resim */
+.resim img{
+    display: block;
+    margin-left: 525px;
+    margin-top: 10px;
+}
+
+/* Arama Motoru */
+.searchbar {
+    text-align: center;
+    background-color: #DCDCDC;
+    width: 1510px;
+}
+#bar {
+    width: 350px;
+}
+
+/* Kutular */
+.box  {
+    margin: 5px 5px 0px 0px;
+    width: 33%;
+    text-align: center;
+    background-color: #13cad4;
+    float: left;
+    padding: 5px 0px;
+    height: 90px;
+} 
+.box li {
+    list-style-type: none;
+} 
+
+.box1 {
+    margin: 5px 5px 0px 0px;
+    width: 33%;
+    text-align: center;
+    background-color: #41bec4;
+    float: left;
+    padding: 5px 0px;
+    height: 90px;
+}
+.box1 li {
+    list-style-type: none;
+}
+
+.box2 {
+    margin: 5px 3px 0 0;
+    width: 33%;
+    text-align: center;
+    background-color: #3c888c;
+    padding: 5px 0px;
+    height: 90px;
+    float: left;
+}
+
+#footer {
+    text-align: -webkit-center;
+    font-size: small;
+}
+
+
+
+
+
+
+#bar {
+    width: 285px;
+}
+
